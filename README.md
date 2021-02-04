@@ -18,6 +18,8 @@
   </a>
 </p>
 
+> **【DEPRECATED】**: 此版本已停止开发
+
 关键词机器人分开源和闭源两个版本，开源版本包含最基础的关键词回复功能，闭源版本增加了更多实用功能。                 
 本项目为关键词自动回复机器人的开源代码，在 [Release](https://github.com/zu1k/tg-keyword-reply-bot/releases) 中发布的为闭源版本可执行文件。
 
